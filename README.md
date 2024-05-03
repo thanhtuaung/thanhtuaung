@@ -1,9 +1,9 @@
 ### Hello friends 🤟, I am Than Htoo Aung! ⚡
-🔥 Flutter / Laravel / React 🔥
+🔥 Flutter / Laravel 🔥
 
 **About me**
 
-- 💼 Internship Traning at [GIC Co.,Ltd](https://gicjp.com) [January 2024 - Present]
+- 💼 Software Developer at [GIC Co.,Ltd](https://gicjp.com) [January 2024 - Present]
 - 💼 Mobile developer at [Evotags](https://evotags.com/) [February 2023 - December 2023]
 
 <h2 align="center"> 🔭 Languages and Tools</h2>
